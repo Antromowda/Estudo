@@ -9,7 +9,7 @@
 //class EnviarEmailParaUsuario { 
     
 //    send() {
-//        enviarEmail("enricob.palma@gmai.com", 666, "Corno", "Tudo bem?");
+//        enviarEmail("rico@gmai.com", 666, "Hello", "World");
 //    }
 //}
 
